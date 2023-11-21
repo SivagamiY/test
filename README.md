@@ -11,6 +11,13 @@ Before running the test cases, make sure you have the following installed:
 
 ## Installation
 
+##### git repository
+
+```bash
+git clone https://github.com/SivagamiY/test.git
+```
+
+
 ##### Install the project dependencies:
 
 ```bash
